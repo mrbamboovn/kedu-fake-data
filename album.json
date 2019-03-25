@@ -1,0 +1,7 @@
+{
+  "albums": [
+    { "id": 1, "name": "Album 1", album_image: "https://image.jimcdn.com/app/cms/image/transf/dimension=1024x2048:format=jpg/path/s2dc9dce23e8db94c/image/i670ce8087b51fca4/version/1522380968/image.jpg" },
+    { "id": 2, "name": "Album 2", album_image: "https://image.jimcdn.com/app/cms/image/transf/dimension=1024x2048:format=jpg/path/s2dc9dce23e8db94c/image/i670ce8087b51fca4/version/1522380968/image.jpg" },
+    { "id": 3, "name": "Album 3", album_image: "https://image.jimcdn.com/app/cms/image/transf/dimension=1024x2048:format=jpg/path/s2dc9dce23e8db94c/image/i670ce8087b51fca4/version/1522380968/image.jpg" }
+  ]
+}
