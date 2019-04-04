@@ -2,32 +2,32 @@
    "albums":[  
       {  
          "id":1,
-         "name":"Album 1",
+         "name":"Ngày hội cứu hoả",
          "album_image":"https://image.jimcdn.com/app/cms/image/transf/dimension=1024x2048:format=jpg/path/s2dc9dce23e8db94c/image/i670ce8087b51fca4/version/1522380968/image.jpg"
       },
       {  
          "id":2,
-         "name":"Album 2",
+         "name":"Tham quan công ty đồ chơi",
          "album_image":"https://nationalpostcom.files.wordpress.com/2018/03/1207_kids_gifts1.jpg?quality=80&strip=all&w=780"
       },
       {  
          "id":3,
-         "name":"Album 3",
+         "name":"Bé học vẽ tranh màu nước",
          "album_image":"https://img.capitalwatch.com/201811/15/5bedce3dcfad6.jpg"
       },
       {  
          "id":4,
-         "name":"Album 4",
+         "name":"Bài tập xé giấy",
          "album_image":"http://dannybrown.me/wp-content/uploads/2008/11/kindergarten.jpg"
       },
       {  
          "id":5,
-         "name":"Album 5",
+         "name":"Giờ ăn trưa vui vẻ",
          "album_image":"https://i.kinja-img.com/gawker-media/image/upload/s---m94HUFj--/c_scale,f_auto,fl_progressive,q_80,w_800/rxkbh7vqwi5jljojttxc.jpg"
       },
       {  
          "id":6,
-         "name":"Album 6",
+         "name":"Bé học Tiếng Anh",
          "album_image":"https://stmedia.stimg.co/kinder+gal2+102416+01.JPG?auto=compress&crop=faces&dpr=1&w=525&h=350&fit=fill&fill=solid&fill-color=e8e8e8"
       }
    ]
